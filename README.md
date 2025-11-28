@@ -68,8 +68,8 @@
 ## Images
  
  
-![Carte mentale](https://i.ibb.co/xSpW35HG/Cartementale.png)
-![Diagramme de flux](https://i.ibb.co/R1n1yqB/diagramedeflix.png)
+![Carte mentale](https://i.ibb.co/N660bLXy/Cartementale.jpg)
+![Diagramme de flux](https://i.ibb.co/MkK5VKn9/diagramedeflix.jpg)
 ![Moodboard](https://i.ibb.co/xSrD8qbb/moodboard.jpg)
 
  
